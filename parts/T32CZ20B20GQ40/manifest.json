@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Trident/T32CZ20B20GQ40:T32CZ20B20GQ40",
+  "name": "T32CZ20B20GQ40",
+  "library": "MCU_Trident",
+  "file": "MCU_Trident.kicad_symdir/T32CZ20B20GQ40.kicad_sym",
+  "description": "ARM,M33,SubGHz Radio,+20dBm,1MB,Flash,288KRAM,Z-Wave,QFN-40",
+  "datasheet": "https://tridentiot.com/wp-content/uploads/2024/11/DS-ZW-0001-01-T32CZ20-Datasheet.pdf",
+  "keywords": "Trident IoT Z-Wave ARM MCU CM33 Radio 900MHz SoC CPU",
+  "footprint": "Package_DFN_QFN:VQFN-40-1EP_5x5mm_P0.4mm_EP3.3x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-trident@master/parts/T32CZ20B20GQ40/",
+  "part_path": "parts/T32CZ20B20GQ40",
+  "symbol_file": "parts/T32CZ20B20GQ40/T32CZ20B20GQ40.kicad_sym",
+  "source_library": "MCU_Trident.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:59.481Z"
+}
